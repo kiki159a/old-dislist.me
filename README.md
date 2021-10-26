@@ -31,6 +31,6 @@ moved recently bumped servers to top of index.ejs page
 
 <br>
 > # 💨 Run the projects
-[![Remix on Glitch][(https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/dislist/Disbots)<br>
-[![Run on Repl.it][(https://repl.it/badge/github/disbotsxyz/Disbots)](https://repl.it/github/disbotsxyz/Disbots)<br>
-[![Deploy][(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disbotsxyz/Disbots)
+[Remix on Glitch](https://glitch.com/edit/#!/import/github/dislist/dislist.me)<br>
+[Run on Repl.it](https://repl.it/github/dislist/dislist.me)<br>
+[Deploy Heroku](https://heroku.com/deploy?template=https://github.com/dislist/dislist.me)
