@@ -24,9 +24,11 @@ moved recently bumped servers to top of index.ejs page
 **NPM:** [npmjs.com/package/vcodes.js](https://www.npmjs.com/package/vcodes.js)<br>
 <br>
 
-# Credit 
+# Original Credit Goes Out Too
 [vCodes](https://vcodes.xyz/)
+<br>
 [DisBots](https://disbots.xyz/)
+
 <br>
 # 💨 Run the projects
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/dislistme/dislist.me)<br>
