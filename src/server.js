@@ -34,7 +34,6 @@ const dbl = new disbots("5UqN6J6Y84KKK2vYtCrZ5Ol7kdXlNdmBhZ9CdOuHg23RoAiRCdEMP1P
 client.on("ready", () => {
     dbl.serverCount(10);
 })
-client.login("ODkxMzM1MzA2NjgxMzg0OTYy.YU82sQ.49ZMYXRhA3uHnw4kLXZJHI18gWY");
 module.exports = async (client) => {
 
   const apiLimiter = rateLimit({
